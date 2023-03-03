@@ -1,5 +1,8 @@
 package firstPackage;
+import java.util.Scanner;
+
 public class ex1 {
+
     public void tip() {
         int[] numbers = {2, 2, 3, 4, 5, 32, 312, 321, 321, 32, 1};
         int min = numbers[0];
